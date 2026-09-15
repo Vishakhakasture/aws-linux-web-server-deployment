@@ -54,7 +54,7 @@ Web Browser
 
 ### EC2 Instance
 
-![EC2 Instance](screenshots/ec2-instance.png)
+![EC2 Instance](screenshots/EC2-instance.png)
 
 ### Security Group
 
